@@ -1,3 +1,6 @@
+import $ from 'jquery';
+import cuid from 'cuid';
+
 const store = {
   items: [],
   hideCheckedItems: false
